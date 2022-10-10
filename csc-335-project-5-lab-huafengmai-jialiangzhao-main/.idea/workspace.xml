@@ -1,0 +1,382 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="08c13d9d-128c-4fba-9ea3-cba4aa68e37f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../M07-1013-1013200/solution/src/CashRegister.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../M07-1013-1013200/solution/src/CashRegisterDriver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../N08-1111-1113/solution/src/HeftyInteger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../N08-1111-1113/solution/src/MultiplicationTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../N08-1111-1113/solution/src/XgcdTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Java/src/main/java/com/janus/design/create/singleton/Example.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Java/src/main/java/com/janus/design/create/singleton/HungrySingleton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Java/src/main/java/com/janus/design/create/singleton/LazySingleton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../NewPro/A11-1019/code_func/comp1405_f19_studentnumber_a3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../NewPro/A12-1019/code_func/Rec0001.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../NewPro/A12-1019/code_func/fft_voice.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../NewPro/A12-1019/code_func/noised.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../NewPro/A12-1019/code_func/readme.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../NewPro/A3-1013/comp2402a2/comp2402a2/BlockedListB1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../NewPro/A3-1013/comp2402a2/comp2402a2/BlockedListB2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../NewPro/A3-1013/comp2402a2/comp2402a2/BlockedListB3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../NewPro/A3-1013/comp2402a2/comp2402a2/BlockedListB4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../NewPro/A3-1013/comp2402a2/comp2402a2/TestList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../NewPro/A6-1014/Hount/src/TreasureHunting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../NewPro/A7-1015/Pra3/Freq.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../NewPro/A7-1015/Pra3/HashTable.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../NewPro/A7-1015/Pra3/bst.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../NewPro/A7-1015/Pra3/english_large.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../NewPro/A7-1015/Pra3/english_small.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../NewPro/A7-1015/Pra3/french.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../NewPro/A7-1015/Pra3/load_word_task2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../NewPro/A7-1015/Pra3/task1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../NewPro/A7-1015/Pra3/task2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../NewPro/A7-1015/Pra3/task3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../NewPro/A7-1015/Pra3/task4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../NewPro/A7-1015/Pra3/task5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../NewPro/A7-1015/Pra3/task6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../NewPro/A7-1015/Pra3/task7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../NewPro/A7-1015/Pra3/test_common.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../NewPro/A7-1015/Pra3/test_prac3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../NewPro/A7-1015/Pra3/test_task1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../NewPro/A7-1015/Pra3/test_task2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../NewPro/A7-1015/Pra3/test_task3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../NewPro/A7-1015/Pra3/test_task4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../NewPro/A7-1015/Pra3/test_task5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../NewPro/A7-1015/Pra3/test_task6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../NewPro/A7-1015/Pra3/test_task7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../NewPro/A7-1015/Pra3/words_empty.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../NewPro/A7-1015/Pra3/words_perm.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../NewPro/A7-1015/Pra3/words_simple.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../NewPro/B1-1101/code_func/Apriori.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../NewPro/B1-1101/code_func/AprioriUpdate.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../NewPro/B1-1101/code_func/apriori/AprioriBBK.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../NewPro/B1-1101/code_func/apriori/Apriori_BKK.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../NewPro/B1-1101/code_func/apriori/apriori1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../NewPro/B10-1116/sulotion/A.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../NewPro/B10-1116/sulotion/B.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../NewPro/B10-1116/sulotion/C.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../NewPro/B12-1121/solution/tli.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../NewPro/B15-1125/solution/question2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../NewPro/B16-1129/solution/bkjava.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../NewPro/B19-1129/solution/Animal.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../NewPro/B2-1104/solution/GetAllCyclesForDirectedGraph.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../NewPro/B2-1104/solution/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../NewPro/B2-1104/solution/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../NewPro/B2-1104/solution/Solution11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../NewPro/B2-1104/solution/SolutionBK.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../NewPro/B2-1104/solution/SolutionBK2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../NewPro/B2-1104/solution/TestCycle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../NewPro/B2-1104/solution/test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../NewPro/B2-1104/solution/test1.in" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../NewPro/B2-1104/solution/test1.out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../NewPro/B2-1104/solution/test2.in" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../NewPro/B2-1104/solution/test2.out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../NewPro/B2-1104/solution/test3.in" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../NewPro/B2-1104/solution/test3.out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../NewPro/B2-1104/solution/test4.in" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../NewPro/B2-1104/solution/test4.out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../NewPro/B2-1104/solution/test5.in" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../NewPro/B2-1104/solution/test5.out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../NewPro/B2-1104/solution/test6.in" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../NewPro/B2-1104/solution/test6.out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../NewPro/B3-1103/project3/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../NewPro/B3-1103/project3/stdlib/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../NewPro/B3-1103/project3/stdlib/color.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../NewPro/B3-1103/project3/stdlib/instream.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../NewPro/B3-1103/project3/stdlib/outstream.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../NewPro/B3-1103/project3/stdlib/picture.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../NewPro/B3-1103/project3/stdlib/stdarray.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../NewPro/B3-1103/project3/stdlib/stdaudio.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../NewPro/B3-1103/project3/stdlib/stddraw.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../NewPro/B3-1103/project3/stdlib/stdio.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../NewPro/B3-1103/project3/stdlib/stdrandom.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../NewPro/B3-1103/project3/stdlib/stdstats.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../NewPro/B5-1110/solution/1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../NewPro/B5-1110/solution/README" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../NewPro/B5-1110/solution/src/fpgrowth.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../NewPro/B6-1115/solution2/TaskSpec.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../NewPro/B7-1109/solution/comp2402a3/SkiplistList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../NewPro/C02-1203/solution/YourName_Assignment09.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../NewPro/C02-1203/solution/class1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../NewPro/C02-1203/solution/class2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../NewPro/C02-1203/solution/class3.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../NewPro/C02-1203/solution/class4.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../NewPro/C02-1203/solution/class5.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../NewPro/C02-1203/solution/class6.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../NewPro/C02-1203/solution/class7.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../NewPro/C02-1203/solution/class8.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../NewPro/C04-1203/a3/a3_shitchecker_v2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../NewPro/E03-0206/solution/solution.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../NewPro/F10-0323/solution/src/CastVote.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../NewPro/F10-0323/solution/src/CastVoteImp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../NewPro/F10-0323/solution/src/ClientSide.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../NewPro/F10-0323/solution/src/ReadMe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../NewPro/F10-0323/solution/src/ServerSide.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../NewPro/F13-0330/Assignment5-Base-Code/src/FanyiV3Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../NewPro/H05-0509-0512/Assignment/src/SpiderJava.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../NewPro/H05-0509-0512/Assignment/src/UnitTestFunction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../NewPro/H05-0509-0512/Assignment/src/UrlContentDetail.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../NewPro/I02-0604-0609/solution/src/enc/Decrypter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../NewPro/I02-0604-0609/solution/src/enc/Encrypter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../NewPro/I02-0604-0609/solution/src/utils/FileWriterUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../NewPro/I02-0604-0609/solution/src/utils/Node.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../NewPro/I02-0604-0609/solution/testing.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../NewPro/I02-0604-0609/solution/text.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../NewPro/I22-0624-0624/solution/assignment11.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ProMon/R0016-C-0704-700/filecom/1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ProMon/R0016-C-0704-700/filecom/2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ProMon/R0016-C-0704-700/filecom/demo.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Python/334.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Python/351.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Python/Currency.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Python/Exrtact_TimeStamp.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Python/Exrtact_TimeStamp1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Python/Huaxi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Python/Project2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Python/Unsupported Currencies" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Python/cachepre_dragon.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Python/duero.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Python/dueros.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Python/end.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Python/project2_data.xls" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Python/tuxiaobei.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Python/tuxiaobei.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Python/tuxiaobei_all.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../../../.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Java/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Java/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java/Java.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Linux-Kali/command.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Linux-Kali/command.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ProMon/R0030-network-450/lab6/code_func/csci_lab6.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ProMon/R0030-network-450/lab6/code_func/csci_lab6.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ProMon/R0030-network-450/lab6/code_func/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ProMon/R0030-network-450/lab6/code_func/test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ProMon/message/src/main/java/InfoUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ProMon/message/src/main/java/InfoUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Python/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Python/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Python/320cln/reqeustssss.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Python/320cln/reqeustssss.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../review/my.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../../review/my.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../review/url.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../review/url.txt" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="ProjectId" id="1kPVa3oDyIdn9nMoGlUZW2WarWz" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\code\FareForth2019\HXPro\N11-1116-1119\project5\src" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.Connect4Tests.testSetter">
+    <configuration name="Clinetn2" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Connect4" />
+      <module name="project5" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Connect4" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Connect4" />
+      <module name="project5" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainClient1" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Connect4" />
+      <module name="project5" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Connect4Tests.testMess" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="project5" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="Connect4Tests" />
+      <option name="METHOD_NAME" value="testMess" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Connect4Tests.testNoWinner1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="project5" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="Connect4Tests" />
+      <option name="METHOD_NAME" value="testNoWinner1" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Connect4Tests.testSetter" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="project5" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="Connect4Tests" />
+      <option name="METHOD_NAME" value="testSetter" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Connect4Tests.testWinner1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="project5" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="Connect4Tests" />
+      <option name="METHOD_NAME" value="testWinner1" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Connect4Tests.testWinner2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="project5" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="Connect4Tests" />
+      <option name="METHOD_NAME" value="testWinner2" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Clinetn2" />
+      <item itemvalue="Application.MainClient1" />
+      <item itemvalue="Application.Connect4" />
+      <item itemvalue="JUnit.Connect4Tests.testWinner1" />
+      <item itemvalue="JUnit.Connect4Tests.testWinner2" />
+      <item itemvalue="JUnit.Connect4Tests.testNoWinner1" />
+      <item itemvalue="JUnit.Connect4Tests.testMess" />
+      <item itemvalue="JUnit.Connect4Tests.testSetter" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.Connect4Tests.testSetter" />
+        <item itemvalue="JUnit.Connect4Tests.testMess" />
+        <item itemvalue="JUnit.Connect4Tests.testNoWinner1" />
+        <item itemvalue="JUnit.Connect4Tests.testWinner2" />
+        <item itemvalue="JUnit.Connect4Tests.testWinner1" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="08c13d9d-128c-4fba-9ea3-cba4aa68e37f" name="Default Changelist" comment="" />
+      <created>1605602274211</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1605602274211</updated>
+      <workItem from="1605602275353" duration="14604000" />
+      <workItem from="1605809955326" duration="2652000" />
+      <workItem from="1605837897929" duration="2683000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="414" y="234" width="1092" height="739" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1605617074095">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state x="414" y="234" width="1092" height="739" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1160/1920.0.1920.1160@0.0.1920.1160" timestamp="1605617074095" />
+    <state x="541" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1605678249074">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state x="541" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1920.1160/1920.0.1920.1160@0.0.1920.1160" timestamp="1605678249074" />
+    <state x="706" y="299" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1605839501427">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state x="706" y="299" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1920.1160/1920.0.1920.1160@0.0.1920.1160" timestamp="1605839501427" />
+    <state x="740" y="334" key="FileChooserDialogImpl" timestamp="1605838390827">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state x="740" y="334" key="FileChooserDialogImpl/0.0.1920.1160/1920.0.1920.1160@0.0.1920.1160" timestamp="1605838390827" />
+    <state width="1877" height="311" key="GridCell.Tab.0.bottom" timestamp="1605840810083">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state width="1877" height="311" key="GridCell.Tab.0.bottom/0.0.1920.1160/1920.0.1920.1160@0.0.1920.1160" timestamp="1605840810083" />
+    <state width="1877" height="160" key="GridCell.Tab.0.bottom/0.0.1920.1160/1920.0.1920.1160@1920.0.1920.1160" timestamp="1605666226780" />
+    <state width="1877" height="311" key="GridCell.Tab.0.center" timestamp="1605840810082">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state width="1877" height="311" key="GridCell.Tab.0.center/0.0.1920.1160/1920.0.1920.1160@0.0.1920.1160" timestamp="1605840810082" />
+    <state width="1877" height="160" key="GridCell.Tab.0.center/0.0.1920.1160/1920.0.1920.1160@1920.0.1920.1160" timestamp="1605666226780" />
+    <state width="1877" height="311" key="GridCell.Tab.0.left" timestamp="1605840810082">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state width="1877" height="311" key="GridCell.Tab.0.left/0.0.1920.1160/1920.0.1920.1160@0.0.1920.1160" timestamp="1605840810082" />
+    <state width="1877" height="160" key="GridCell.Tab.0.left/0.0.1920.1160/1920.0.1920.1160@1920.0.1920.1160" timestamp="1605666226780" />
+    <state width="1877" height="311" key="GridCell.Tab.0.right" timestamp="1605840810082">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state width="1877" height="311" key="GridCell.Tab.0.right/0.0.1920.1160/1920.0.1920.1160@0.0.1920.1160" timestamp="1605840810082" />
+    <state width="1877" height="160" key="GridCell.Tab.0.right/0.0.1920.1160/1920.0.1920.1160@1920.0.1920.1160" timestamp="1605666226780" />
+    <state x="2360" y="154" key="SettingsEditor" timestamp="1605603065633">
+      <screen x="1920" y="0" width="1920" height="1160" />
+    </state>
+    <state x="2360" y="154" key="SettingsEditor/0.0.1920.1160/1920.0.1920.1160@1920.0.1920.1160" timestamp="1605603065633" />
+    <state x="664" y="471" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1605839730065">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state x="664" y="471" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1920.1160/1920.0.1920.1160@0.0.1920.1160" timestamp="1605839730065" />
+    <state x="690" y="352" key="extract.method.dialog" timestamp="1605678062583">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state x="690" y="352" key="extract.method.dialog/0.0.1920.1160/1920.0.1920.1160@0.0.1920.1160" timestamp="1605678062583" />
+    <state x="666" y="284" width="587" height="592" key="find.popup" timestamp="1605678414749">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state x="666" y="284" width="587" height="592" key="find.popup/0.0.1920.1160/1920.0.1920.1160@0.0.1920.1160" timestamp="1605678414749" />
+    <state x="2586" y="284" width="587" height="592" key="find.popup/0.0.1920.1160/1920.0.1920.1160@1920.0.1920.1160" timestamp="1605603464174" />
+    <state x="2262" y="200" key="new project wizard" timestamp="1605666395904">
+      <screen x="1920" y="0" width="1920" height="1160" />
+    </state>
+    <state x="2262" y="200" key="new project wizard/0.0.1920.1160/1920.0.1920.1160@1920.0.1920.1160" timestamp="1605666395904" />
+    <state x="623" y="255" width="672" height="678" key="search.everywhere.popup" timestamp="1605839990295">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state x="623" y="255" width="672" height="678" key="search.everywhere.popup/0.0.1920.1160/1920.0.1920.1160@0.0.1920.1160" timestamp="1605839990295" />
+  </component>
+</project>
